@@ -1,6 +1,6 @@
 ### Welcome to my Github 🤙🏾
 
-Hi, my name is Kaleb. I am an MS candidate studying Computer Science/AI 👨🏿‍💻 at Stanford. I also received my BS with honors in Biology  🧬 from Stanford just last year. I am planning to graduate with my masters at the end of this fall 2023.
+Hi, my name is Kaleb. I am an MS candidate studying Computer Science/AI 👨🏿‍💻 at Stanford planning to graduate at this end of this fall 2023. I also received my BS with honors in Biology  🧬 from Stanford just last year.
 
 I am also a research scientist 🧑🏿‍🔬🧫🔬 the Haileselassie Lab at Stanford Med in the Department of Pediatrics, Division of Critical Care Medicine. My research interests include mitochondrial dynamics and mitoDAMPs in inflammatory disease. 
 
